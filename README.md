@@ -1,2 +1,2 @@
-# 33333210079_Tb.Raihan_C
-mini project analitika data
+# 33333210079_Tubagus Raihan Ramadhan_Kelas C
+Mini Project Analitika Data
